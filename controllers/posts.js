@@ -30,6 +30,7 @@ module.exports = {
     try {
       // Upload image to cloudinary
       const result = await cloudinary.uploader.upload(req.file.path);
+      console.log('controller/posts.js result: ', result)
 
       await Post.create({
         title: req.body.title,
