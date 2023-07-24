@@ -1,4 +1,4 @@
-# Binary upload boom
+## Binary upload boom
 
 A CRUD photo sharing and social networking applicaiton.
 
