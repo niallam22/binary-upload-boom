@@ -2,7 +2,6 @@
 
 A CRUD photo sharing and social networking applicaiton.
 
-### Link to project: https://carminas.up.railway.app/
 ![App login and upload](bub.gif?raw=true "Logging in and uploading image to app")
 
 ## About this project
